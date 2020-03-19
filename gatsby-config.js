@@ -5,11 +5,11 @@ module.exports = {
       name: `Pratik Agrawal`,
       summary: ` who lives and studies in indore.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Pratik's Blog.`,
     siteUrl: `https://pratikblog.netlify.com/`,
     social: {
       twitter: `Pratik_arean`,
-      ig: `pratikagrawal711`,
+      ig: `PRATIKAGRAWAL711`,
     },
   },
   plugins: [
@@ -67,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/profile.jpg`,
       },
     },
     `gatsby-plugin-react-helmet`,
