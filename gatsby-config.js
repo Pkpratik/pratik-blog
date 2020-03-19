@@ -3,12 +3,12 @@ module.exports = {
     title: `Pratik's Blog`,
     author: {
       name: `Pratik Agrawal`,
-      summary: `lives and studies in indore.`,
+      summary: ` who lives and studies in indore.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://pratikblog.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Pratik_arean`,
     },
   },
   plugins: [
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Pratik's Blog`,
+        short_name: `pk blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
