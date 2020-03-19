@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Pratik's Blog`,
+    title: `Blog by pratik`,
     author: {
       name: `Pratik Agrawal`,
       summary: ` who lives and studies in indore.`,
@@ -9,6 +9,7 @@ module.exports = {
     siteUrl: `https://pratikblog.netlify.com/`,
     social: {
       twitter: `Pratik_arean`,
+      instagram: `pratikagrawal711`,
     },
   },
   plugins: [

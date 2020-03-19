@@ -1,9 +1,9 @@
 {
-  "name": "Pratik's Blog",
+  "name": "blog-by-pratik",
   "private": true,
   "description": "A Blog to share my coding journey",
   "version": "0.1.0",
-  "author": "Pratik Agrawal <pratikagrawal7711@gmail.com>",
+  "author": "Pratik Agrawal<pratikagrawal7711@gmail.com>",
   "bugs": {
     "url": "https://github.com/Pkpratik/pratik-blog/issues"
   },
