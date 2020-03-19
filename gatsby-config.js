@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: `https://pratikblog.netlify.com/`,
     social: {
       twitter: `Pratik_arean`,
-      instagram: `pratikagrawal711`,
+      ig: `pratikagrawal711`,
     },
   },
   plugins: [
