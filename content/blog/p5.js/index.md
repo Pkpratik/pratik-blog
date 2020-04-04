@@ -54,7 +54,7 @@ you can play the game in the bellow iframe just click to play.
 
 ###Balloon jump game
 
-Another simple game in which we control a balloon and make it jump the obsticals. If it touches any of the obstical then its a game over. Just press the space bar key or click anywhere of the game to make the balloon jump. A click after game over will reset it.
+Another simple game in which we control a balloon and make it jump the obsticals. If it touches any of the obstical then its a game over. Just press the space bar key or click anywhere of the game to make the balloon jump. A click after game over will reset it. 
 
 Here is a screen shot of the game
 ![balloon](./balloon.png)
