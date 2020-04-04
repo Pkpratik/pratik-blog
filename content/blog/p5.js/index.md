@@ -1,4 +1,4 @@
----
+<!-- ---
 title: My p5.js Journey
 date: "2020-03-31T18:41:03.284Z"
 description: "p5 is an amazing library of JavaScript"
@@ -54,7 +54,7 @@ you can play the game in the bellow iframe just click to play.
 
 ###Balloon jump game
 
-Another simple game in which we control a balloon and make it jump the obsticals. If it touches any of the obstical then its a game over. Just press the space bar key or click anywhere of the game to make the balloon jump. A click after game over will reset it.
+Another simple game in which we control a balloon and make it jump the obsticals. If it touches any of the obstical then its a game over. Just press the space bar key or click anywhere of the game to make the balloon jump. A click after game over will reset it. 
 
 Here is a screen shot of the game
 ![balloon](./balloon.png)
@@ -63,4 +63,4 @@ You can play the game in the bellow iframe
 
 <iframe src="https://editor.p5js.org/pk7711/embed/qgEyySSBp"  width="16" height="11  "></iframe>
 
-For more information on p5, check its [official website](https://p5js.org/)
+For more information on p5, check its [official website](https://p5js.org/) -->
